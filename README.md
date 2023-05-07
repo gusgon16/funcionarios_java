@@ -6,7 +6,7 @@ Este é um projeto simples em Java que permite calcular o salário dos funcioná
 Para executar o código em um compilador Java, você precisa seguir os seguintes passos:
 
 1. Abra um editor de código, como o Eclipse ou o NetBeans, e crie um novo projeto.
-2. Copie e cole o código fornecido na classe principal (`Projeto.java`) e na classe `funcionarios.java` em seus respectivos arquivos no projeto.
+2. Copie e cole o código fornecido na classe principal (`Aepprog.java`) e na classe `funcionarios.java` em seus respectivos arquivos no projeto.
 3. Certifique-se de que todas as dependências necessárias estejam instaladas e vinculadas ao projeto.
 4. Execute o projeto. Você pode fazer isso clicando no botão "Executar" no Eclipse ou no NetBeans ou digitando o comando "java nome_do_arquivo.java" no terminal.
 
